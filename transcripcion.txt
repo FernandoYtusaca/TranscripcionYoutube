@@ -1,0 +1,118 @@
+patterns were very
+similar uh they were returning bullan
+expression with one operators and two
+method
+FSE a student code for this programming
+pattern was flagged for revision if it
+included any if
+statements the third pattern was unique
+versus repeated code within an if and
+else that we already
+discussed given our task code was flaged
+for revision if it had an else or had
+more than one return
+statement with data from this task we
+first wanted to know if writing with an
+onti pattern indicates a knowledge Gap
+so We examined how much support do a
+student need to revise their own code
+this is a student respond to code
+writing prompt for returning bullan
+expression with method call since they
+used if a statements they could got flag
+for the revision and they saw the first
+prompt The Prompt ask the student to
+copy and paste your code into the box
+below and see if you can improve its
+style this prompt does not say what's
+wrong with the code or how to fix it
+this prompt should help students who
+know how to correctly use pattern but
+are but are not motivated uh to using
+that however it should not help a
+student with deep conceptual
+gaps the student revised the code after
+the prompt by making the explicit else
+implicit therefore their code got
+flagged again and they saw the hint the
+H suggested question a specific control
+flow to use or to use or avoid and ask a
+student student if they could follow the
+suggestion here the hint asked Can you
+rewrite the code without an if statement
+a student could answer yes and if they
+answered yes they were given their final
+chance of
+revision and if they answered no which
+is the case with this student they were
+given two work example one example
+showed the code with the targeted onti
+pattern and the other one followed the
+expert pattern The Prompt ask students
+to check out these examples they do the
+same thing and see if you can Follow The
+Prompt finally student directly return
+the Boolean expression with method call
+now let's see how students performed
+starting from code writing and a
+students who wrote expert
+pattern a student percentage of a
+student who succeeded after first
+prompt a a student who succeeded after
+seeing the
+hints a student who succeeded after work
+example and a students who did did not
+succeed after all revision
+opportunities the gray background shows
+that uh the survey Mist canly not flag
+some of the code that it should we can
+see that a student's knowledge varied
+based on pattern returning Bull and
+expression were easier overall and more
+students correctly wrote with expert
+pattern in their initial try now let's
+zoom into only students who use anti
+patterns in their writing and see how
+they performed in revision
+for returning Boolean topics which are
+the first two topics more than 55% of
+the students who wrote with anti pattern
+could revise their own code at the first
+prompt and without receiving extra
+information therefore these students us
+it of onti pattern in COD writing is not
+due to conceptual
+Gap however for Unique versus repeated
+code a students showed less
+understanding and only 6% of a students
+who wrote with anti pattern could revise
+the code without extra
+information therefore these results can
+answer or research question onti
+patterns for returning booleans uh
+Boolean topic were not due to large
+conceptual Gap but onti pattern for
+repeated code
+was now let's see rq2 that ask how
+useful is code writing as a predictor of
+a Student Success in editing someone
+else's code note that only student whose
+code was flagged for onti pattern did
+the code revision but all of the student
+did the code
+editing here's an example of code
+editing task for returning blue and
+expression with method call each editing
+task targeted some onti patterns and ask
+the students to improve this style
+without changing the functionality a
+students were not told what to improve
+or how to
+improve here's the successful editing
+that directly Returns the Boolean
+expression
+we examine the relationship between
+writing style and editing success for
+each topic these are students who wrote
+and edit
+successfully these are students who
